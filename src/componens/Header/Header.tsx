@@ -12,7 +12,7 @@ export default function Header() {
                 <div className={styles.header_content}>
                     <Image className={styles.img_header} src="/image/header_img.png" width={660} height={433} alt="Header" />
                     <div className={styles.header_content_text}>
-                        <h1>Платежное решение для High Risk проектов</h1>
+                        <h1> решение для High Risk проектов</h1>
                         <div className={inter.className} >
                             <p>Надежная и бесперебойная работа</p>
                             <p>Архитектура системы гарантирует стойкость к нагрузкам и неограниченное количество транзакций.</p>

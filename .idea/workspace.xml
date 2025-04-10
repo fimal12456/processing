@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="203542f6-382c-46bd-9935-87fe5eacc862" name="Changes" comment="" />
+    <list default="true" id="203542f6-382c-46bd-9935-87fe5eacc862" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/componens/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componens/Header/Header.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/nsewe/OneDrive/Рабочий стол/processing",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,10 +72,34 @@
       <workItem from="1742167361345" duration="24000" />
       <workItem from="1744303942889" duration="960000" />
       <workItem from="1744305400528" duration="201000" />
+      <workItem from="1744306163020" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
