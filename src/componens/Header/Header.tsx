@@ -18,10 +18,10 @@ export default function Header() {
                             <p>Архитектура системы гарантирует стойкость к нагрузкам и неограниченное количество транзакций.</p>
                         </div>
                         <div className={styles.header_buttons}>
-                            <a href="https://t.me/Igor_SD2">
+                            <a href="https://t.me/alexJETP2P">
                                 <button>Отправить заявку</button>
                             </a>
-                            <a href="https://t.me/Igor_SD2">
+                            <a href="https://t.me/alexJETP2P">
                                 <button className={styles.button_traider}>Стать трейдером</button>
                             </a>
                         </div>
